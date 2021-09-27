@@ -1,0 +1,36 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Han Solo",
+      "occupation": "Smuggler",
+      "weapon": "Blaster Pistol",
+      "cartoon": false,
+      "picture": "https://cinemaclassico.com/wp-content/uploads/2019/07/Star-Wars-Han-Solo-Leather-.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false,
+      "picture": "http://lightsaberarchive.dcmjs.com/wp-content/uploads/luke6-square.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true,
+      "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/440px-SpongeBob_SquarePants_character.svg.png"
+    },
+    {
+      "name": "Yoda",
+      "occupation": "Jedi Master",
+      "weapon": "Light saber",
+      "cartoon": false,
+      "picture": "http://lightsaberarchive.dcmjs.com/wp-content/uploads/yoda-square.jpg",
+      "id": 4
+    }
+  ]
+}
